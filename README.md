@@ -13,3 +13,7 @@ http://mynameismatthieu.com/WOW/
 https://www.myfonts.com/search/futura/
 
 http://ogp.me/
+
+https://mithril.js.org/framework-comparison.html#why-not-insert-favorite-framework-here?
+
+https://vuejs.org/v2/guide/
